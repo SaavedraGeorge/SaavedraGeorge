@@ -8,7 +8,7 @@ Deeply connected to the web since childhood. I started coding in elementary scho
 - 🔭 I’m currently studying:
 	- Advanced Backend Architecture & TypeScript.
 - :bulb: I'm interested in all things data: **Emerging Technologies, Backend Architecture, and Web UI/UX Craftsmanship. (Yes, I actually love CSS).**
-- 💬 Talk to me about Web history, bike mechanics & cycling, climbing, golf, swimming, or art, anything that interests you.
+- 💬 Talk to me about Web history, music, bike mechanics & cycling, climbing, golf, swimming, or art, anything that interests you.
 
 ## My Skills Include
 
